@@ -149,19 +149,6 @@ https://kc0nk.github.io/Portofolio-kc0nk/
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kc0nk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc0nk&layout=compact&hide_border=true&theme=transparent" height="170">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kc0nk&hide_border=true&theme=transparent">
-</p>
-
----
-
 <div align="center">
 
 ### `> access portfolio`
@@ -173,5 +160,4 @@ https://kc0nk.github.io/Portofolio-kc0nk/
 `security is about understanding what the system trusts.`
 
 </div>
-EOF
 git add README.md && git commit -m "Redesign cybersecurity profile README" && git push
