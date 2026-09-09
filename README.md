@@ -23,24 +23,6 @@
 
 ---
 
-<h2 align="center">⚔️ CTF ARSENAL</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WEB-EXPLOITATION-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
-  <img src="https://img.shields.io/badge/REV-REVERSE%20ENGINEERING-111111?style=for-the-badge&logo=ghidra&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/PWN-BINARY%20EXPLOITATION-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/CRYPTO-CRYPTOGRAPHY-111111?style=for-the-badge&logo=letsencrypt&logoColor=FFFFFF">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FORENSICS-DIGITAL%20FORENSICS-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7">
-  <img src="https://img.shields.io/badge/STEGO-STEGANOGRAPHY-111111?style=for-the-badge&logo=image&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/BOOT2ROOT-PRIVILEGE%20ESCALATION-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/MISC-SCRIPTING%20%26%20ANALYSIS-111111?style=for-the-badge&logo=python&logoColor=3776AB">
-</p>
-
----
-
 <h2 align="center">🛠️ SECURITY TOOLKIT</h2>
 
 <h3 align="center">Languages & Development</h3>
@@ -108,62 +90,6 @@
   <img src="https://img.shields.io/badge/LinPEAS-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/WinPEAS-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge">
-</p>
-
----
-
-<h2 align="center">🎯 CTF CATEGORIES</h2>
-
-<table align="center">
-  <tr>
-    <th>Category</th>
-    <th>Core Skills</th>
-  </tr>
-  <tr>
-    <td>🌐 Web</td>
-    <td>Enumeration · Authentication · Injection · Logic Bugs</td>
-  </tr>
-  <tr>
-    <td>🔬 Reverse Engineering</td>
-    <td>Static Analysis · Dynamic Analysis · Decompilation</td>
-  </tr>
-  <tr>
-    <td>💥 Pwn</td>
-    <td>Memory Corruption · ROP · Stack/Heap Exploitation</td>
-  </tr>
-  <tr>
-    <td>🔐 Cryptography</td>
-    <td>RSA · Encoding · Mathematical Cryptanalysis</td>
-  </tr>
-  <tr>
-    <td>🕵️ Forensics</td>
-    <td>PCAP · Memory · File Analysis · Artifact Recovery</td>
-  </tr>
-  <tr>
-    <td>🖼️ Steganography</td>
-    <td>Hidden Data · Metadata · Encoding</td>
-  </tr>
-  <tr>
-    <td>🖥️ Boot2Root</td>
-    <td>Enumeration · Exploitation · Privilege Escalation</td>
-  </tr>
-  <tr>
-    <td>🧩 Misc</td>
-    <td>Scripting · Automation · Reverse Analysis</td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">📊 GITHUB</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kc0nk&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc0nk&layout=compact&hide_border=true&langs_count=8" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kc0nk&hide_border=true">
 </p>
 
 ---
