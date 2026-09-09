@@ -1,14 +1,7 @@
 <p align="center">
   <img src="./assets/kc0nk-linkedin-banner.webp" width="100%">
 </p>
-
-<h1 align="center">kc0nk</h1>
-
-<p align="center">
-  <b>CTF Player</b> • <b>Cybersecurity</b> • <b>Bug Hunter</b>
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/kc0nk">
     <img src="https://img.shields.io/badge/GitHub-kc0nk-181717?style=for-the-badge&logo=github">
   </a>
