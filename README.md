@@ -22,16 +22,20 @@
 </p>
 
 ---
-<h2 align="center">🛠️ SECURITY TOOLKIT</h2>
-
-<h3 align="center">Web Security</h3>
+<h2 align="center">⚔️ CTF TOOLKIT</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,docker" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" />
+  <img src="https://cdn.simpleicons.org/nmap/4682B4" width="45" />
+  <img src="https://cdn.simpleicons.org/ghidra" width="45" />
+  <img src="https://cdn.simpleicons.org/gnubash" width="45" />
+  <img src="https://cdn.simpleicons.org/openssl" width="45" />
+  <img src="https://cdn.simpleicons.org/jupyter" width="45" />
 </p>
 ---
 
