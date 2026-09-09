@@ -1,4 +1,3 @@
-cd ~/Projects/kc0nk && cat > README.md <<'EOF'
 <div align="center">
 
 # kc0nk
