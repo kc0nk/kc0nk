@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/kc0nk-banner.webp" width="100%">
+</p>
+
 # kc0nk
 
 ### CTF Player • Cybersecurity • Bug Hunter
