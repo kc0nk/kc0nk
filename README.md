@@ -31,12 +31,11 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" />
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" />
-  <img src="https://cdn.simpleicons.org/nmap/4682B4" width="45" />
-  <img src="https://cdn.simpleicons.org/ghidra" width="45" />
   <img src="https://cdn.simpleicons.org/gnubash" width="45" />
   <img src="https://cdn.simpleicons.org/openssl" width="45" />
   <img src="https://cdn.simpleicons.org/jupyter" width="45" />
 </p>
+
 ---
 
 <p align="center">
